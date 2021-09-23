@@ -20,5 +20,10 @@ Sua operação está exemplificada nas imagens a seguir:
 
 
 
-![Python 2](https://github.com/romfe/sol_letras/imagens/op_python2.png?raw=true)
+![Python 2](https://github.com/romfe/sol_letras/blob/main/imagens/op_python2.png?raw=true)
 
+
+
+### Python 3
+
+![Python 3](https://github.com/romfe/sol_letras/blob/main/imagens/op_python3.png?raw=true)
